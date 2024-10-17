@@ -9,7 +9,6 @@ v1.9
    inside of the
 4. Run Crosshairs.exe !
 
-This will build the project and output the binary into the current directory inside the `build/` folder, as well as run the binary.
 
 ### To-Do
 - ~~Change app Icon & "MainWindow" Title Text~~
