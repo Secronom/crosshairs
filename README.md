@@ -5,8 +5,7 @@ v1.7
 ## How to use
 1. Download the latest Release.
 2. Put the folder in desired location.
-3. Add any 32x32 or 64x64 crosshair files to the crosshairs folder
-   inside of the
+3. Add any 32x32 or 64x64 crosshair files to the crosshairs folder.
 4. Run Crosshairs.exe !
 
 
