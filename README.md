@@ -1,7 +1,5 @@
 v1.9
 # CROSSHAIRS BY NX
-on handling UI.
-
 **WARNING:** This SHOULD work on all Windows 10 and 11 machines, but incompatiblities exist.
 
 ## How to use
