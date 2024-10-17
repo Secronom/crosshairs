@@ -12,10 +12,10 @@ v1.9
 This will build the project and output the binary into the current directory inside the `build/` folder, as well as run the binary.
 
 ### Plans
-[X] - Change app Icon & "MainWindow" Title Text
-[X] - Center DropDown Text
-[X] - File System
-[X] - crosshairs in folder show in reticleList
-[X] - ~~Make resources.qrc update~~ nvm, dont store icon as resource
-[X] - Crosshairs actually show on screen x)
+- Change app Icon & "MainWindow" Title Text
+- Center DropDown Text
+- File System
+- crosshairs in folder show in reticleList
+- ~~Make resources.qrc update~~ nvm, dont store icon as resource
+- Crosshairs actually show on screen x)
 
