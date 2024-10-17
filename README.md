@@ -1,4 +1,4 @@
-v1.9
+v1.7
 # CROSSHAIRS BY NX
 **WARNING:** This SHOULD work on all Windows 10 and 11 machines, but errors exist.
 
