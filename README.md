@@ -21,3 +21,8 @@ This will build the project and output the binary into the current directory ins
 [ ] -
 [ ] -
 
+### Plans
+[-] This cheat only works on Lunar Client 1.8.9
+[-] The ESP in works well in third person until your camera starts colliding with blocks, a solution was found however it was not very reliable.
+[-] After having fusion injected for a while, you may experience minor lag spikes, no solution was found.
+
