@@ -1,6 +1,6 @@
 v1.9
 # CROSSHAIRS BY NX
-**WARNING:** This SHOULD work on all Windows 10 and 11 machines, but incompatabilities exist.
+**WARNING:** This SHOULD work on all Windows 10 and 11 machines, but errors exist.
 
 ## How to use
 1. Download the latest Release.
