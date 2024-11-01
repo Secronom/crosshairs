@@ -16,4 +16,6 @@ v1.7
 - ~~crosshairs in folder show in reticleList~~
 - ~~Make resources.qrc update~~ nvm, dont store icon as resource
 - ~~Crosshairs actually show on screen x)~~
+- bug- Cursor shows when moving mouse in fullscreen program
+- bug- Clicking when cursor is shown will minimize current fullscreen program
 
